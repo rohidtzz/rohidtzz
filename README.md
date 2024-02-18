@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ReactJs
 - 💬 Ask me about Web Tech
 - 📫 How to reach me: @rohidtzz
-- ⚡ Fun fact: I Like Elsya Rahma Aulia
+- ⚡ Fun fact: I Like ~~Elsya Rahma Aulia~~
 
 ### I Write Every Code With Love 💌
